@@ -1,0 +1,2 @@
+insert into PNTT (PNTT_NAME,PNTT_DESC,PNTT_DEAL,PNTT_STAT,PNTT_PRIO,PNTT_USER,PNTT_CRE_DATE,PNTT_DUE_DATE)values('ticket de operaciones creado','problemas en la aplicacion',1,1,1,'Marcelo Olalla','2021-03-19','2021-03-23');
+insert into PNTT (PNTT_NAME,PNTT_DESC,PNTT_DEAL,PNTT_STAT,PNTT_PRIO,PNTT_USER,PNTT_CRE_DATE,PNTT_DUE_DATE)values('ticket de operaciones creado','aplicacion creada',0,2,2,'Marcelo Olalla','2021-03-19','2023-03-23');
